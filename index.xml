@@ -10,7 +10,7 @@
     <item>
       <title>About</title>
       <link>https://angusjellis.co.uk/about/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://angusjellis.co.uk/about/</guid>
       <description>I&amp;rsquo;m a DevOps Engineer based in Manchester.
@@ -23,7 +23,7 @@ The site is deployed using a GitHub Actions Pipeline.</description>
     <item>
       <title>Tech Stack</title>
       <link>https://angusjellis.co.uk/techstack/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://angusjellis.co.uk/techstack/</guid>
       <description>Within my current role, I build internal tooling using Python, with the tooling hosted on AWS.
