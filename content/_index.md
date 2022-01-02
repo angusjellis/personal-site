@@ -1,18 +1,13 @@
 ---
 title: "Home"
-date: "2020-01-01"
+date: "2022-01-02"
 menu: "main"
-description: "A description of the page"
+description: "Main homepage"
 ---
 
 <br />
 
+Welcome to my site! It's a static site, compiled using [hugo](https://gohugo.io/), with the [hugo tanka theme](https://github.com/nanxstats/hugo-tanka).
 
+The site is deployed using a [GitHub Actions Pipeline](https://github.com/angusjellis/get-angus-promoted/blob/main/.github/workflows/gh-pages.yaml).
 
-Welcome to my promotion website!
-
-During my presentation, I'll be going through the information in the 'short posts' section of the website.
-
-If you want more information on the stuff I'm talking about, you'll probably find it in the 'lomg posts' section (there's far more writing there than I could ever hope to speak about in 10 minutes).
-
-If you'd like to know how this website is built and deployed, see the 'about' section of the website. If you're more interested in the skills I think I'd bring to the table as a Senior DevOps Engineer, please have a look at the 'skills' section.
