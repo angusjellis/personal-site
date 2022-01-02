@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Angus Jellis</title>
-    <link>https://anguspromotioncase.co.uk/</link>
+    <link>https://angusjellis.co.uk/</link>
     <description>Recent content in Home on Angus Jellis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://anguspromotioncase.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://angusjellis.co.uk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://anguspromotioncase.co.uk/about/</link>
+      <link>https://angusjellis.co.uk/about/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://anguspromotioncase.co.uk/about/</guid>
+      <guid>https://angusjellis.co.uk/about/</guid>
       <description>I&amp;rsquo;m a DevOps Engineer based in Manchester.
 My primary responsibilties involve building and maintaining my company&amp;rsquo;s Developer Productivity suite, using a mixture of vendor products and custom-built internal tools.
 Outside of work, I&amp;rsquo;m a fitness enthusiast, a cryptocurrency evangelist/investor, a gamer, and I love getting to gigs (primarily heavy metal).
@@ -22,10 +22,10 @@ The site is deployed using a GitHub Actions Pipeline.</description>
     
     <item>
       <title>Tech Stack</title>
-      <link>https://anguspromotioncase.co.uk/techstack/</link>
+      <link>https://angusjellis.co.uk/techstack/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://anguspromotioncase.co.uk/techstack/</guid>
+      <guid>https://angusjellis.co.uk/techstack/</guid>
       <description>Within my current role, I build internal tooling using Python, with the tooling hosted on AWS.
 Some of the tooling is developed as a Flask App, while other aspects are deployed as Serverless functions.
 I write CI/CD Pipelines in GitHub Acitons &amp;amp; Jenkins (preferably on Actions), with all source code being held on GitHub.
