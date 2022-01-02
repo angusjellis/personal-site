@@ -1,6 +1,6 @@
 ---
 title: "Tech Stack"
-date: "2020-01-01"
+date: "2022-01-02"
 menu: "main"
 description: "A page to describe my skillset"
 ---
