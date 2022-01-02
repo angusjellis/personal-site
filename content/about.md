@@ -15,4 +15,4 @@ Outside of work, I'm a fitness enthusiast, a cryptocurrency evangelist/investor,
 
 I've built this site  as a static site, compiled using [hugo](https://gohugo.io/), with the [hugo tanka theme](https://github.com/nanxstats/hugo-tanka).
 
-The site is deployed using a [GitHub Actions Pipeline](https://github.com/angusjellis/get-angus-promoted/blob/main/.github/workflows/gh-pages.yaml).
+The site is deployed using a [GitHub Actions Pipeline](https://github.com/angusjellis/personal-site/blob/main/.github/workflows/gh-pages.yaml).
