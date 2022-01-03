@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Short on Angus Jellis</title>
+    <link>https://angusjellis.co.uk/tags/short/</link>
+    <description>Recent content in Short on Angus Jellis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://angusjellis.co.uk/tags/short/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github Migration (Short)</title>
+      <link>https://angusjellis.co.uk/posts/migration/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://angusjellis.co.uk/posts/migration/</guid>
+      <description>Summary Our legacy SCM system had been in use since ~2015. Five years&#39; worth of technical debt had built up (in terms of usrs, permissions, dependencies, naming conventions, etc).
+I was given the task of planning and implementing our migration to GitHub.
+Our old system was an absolutely critical system that supported the entirety of KPMG&amp;rsquo;s Engineering function, with around 600 users, and £millions of revenue dependent upon it.
+There were around 3200 repos on the legacy system.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title> Tags - Angus Jellis </title>
+    <title> Github Migration (Short) - Angus Jellis </title>
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="referrer" content="no-referrer">
@@ -12,18 +12,18 @@
     <meta property="og:site_name" content="Angus Jellis" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://angusjellis.co.uk/tags/" />
-    <meta property="og:title" content="Tags" />
+    <meta property="og:url" content="https://angusjellis.co.uk/posts/migration/" />
+    <meta property="og:title" content="Github Migration (Short)" />
     <meta property="og:image" content="https://angusjellis.co.uk/" />
     <meta property="og:description" content="" />
 
     <meta name="twitter:card" content="summary_large_image" />
     
-    <meta name="twitter:title" content="Tags" />
+    <meta name="twitter:title" content="Github Migration (Short)" />
     <meta name="twitter:description" content="" />
     <meta name="twitter:image" content="https://angusjellis.co.uk/" />
 
-    <link rel="canonical" href="https://angusjellis.co.uk/tags/">
+    <link rel="canonical" href="https://angusjellis.co.uk/posts/migration/">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
 
@@ -45,7 +45,7 @@
 
 <body>
     
-<div class="mt-xl header">
+    <div class="mt-xl header">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-auto">
@@ -112,34 +112,81 @@
     </div>
 </div>
 
-<div class="content">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-sm-12 col-lg-8">
-                <div class="mx-0 mx-md-4">
-                    <h2>Posts about Tags</h2>
-                    <hr>
-                    <ul>
+    <div class="content">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-sm-12 col-lg-8">
+                    <h1 class="mx-0 mx-md-4">Github Migration (Short)</h1>
+                    <div class="markdown">
                         
-                        <ul class="list-unstyled">
-    
-    <li>
-        <h2 class="meta-title"><a href="https://angusjellis.co.uk/posts/migration/">Github Migration (Short)</a></h2>
-        <div class="meta-date">
-            <time>2022/01/03</time>
-        </div>
-    </li>
-    
+    <h2 id="summary">Summary</h2>
+<p>Our legacy SCM system had been in use since ~2015. Five years' worth of technical debt had built up (in terms of usrs, permissions, dependencies, naming conventions, etc).</p>
+<p>I was given the task of planning and implementing our migration to GitHub.</p>
+<p>Our old system was an absolutely critical system that supported the entirety of KPMG&rsquo;s Engineering function, with around 600 users, and £millions of revenue dependent upon it.</p>
+<p>There were around 3200 repos on the legacy system.</p>
+<h2 id="what-was-my-role">What was my role?</h2>
+<ul>
+<li>Acted as technical lead and project lead</li>
+<li>Spearheaded communications with end users</li>
+<li>Built majority of the KPMG specific migration tooling (3366 lines of code in total, not that number of lines is a sign of quality&hellip;..)</li>
+<li>Handled comms with critical business reps</li>
+<li>Trained up other members of the team on the migration tooling as well, delegated actual migrations to them</li>
 </ul>
-                        
-                    </ul>
+<h2 id="what-do-you-think-went-well">What do you think went well?</h2>
+<ul>
+<li>Communications with end users</li>
+<li>Taking on board user feedback</li>
+<li>Automation of toil</li>
+<li>Reliability of system</li>
+<li>Minimal end user impact</li>
+<li>Notifications on dependencies</li>
+</ul>
+<h2 id="what-do-you-think-could-have-gone-better">What do you think could have gone better?</h2>
+<ul>
+<li>Should have tested vendor-provided tools earlier on</li>
+<li>Difficulty properly tracking migration (especially at start)</li>
+<li>Overengineered some bits, by writing scripts that never got used</li>
+<li>Reacted to scope creep by constantly pushing deadlines back!</li>
+</ul>
+<h2 id="what-do-you-wish-you-had-looked-intohad">What do you wish you had looked into/had?</h2>
+<ul>
+<li>Could have automated even more</li>
+<li>Would have been great to make self service (links with automation)</li>
+<li>Move out of our local machines</li>
+</ul>
+<h2 id="what-lessons-did-you-learn">What lessons did you learn?</h2>
+<ul>
+<li>Importance of a dynamic database for migrations on this large a scale</li>
+<li>Automation reduces need for domain knowledge</li>
+<li>Communication with users key to minimising incorrect assumptions, and coming up with better ideas</li>
+<li>Rate limiting (what it is, why it&rsquo;s important), and need for optimisation of large scale software</li>
+<li>Never trust a vendor&rsquo;s promises on what their software can do&hellip;</li>
+</ul>
+
+
+
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
 
-
+    <section id="comments">
+    <div class="py-3 content">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-sm-12 col-lg-8">
+                    <div class="comments">
+                        <script src="https://utteranc.es/client.js" repo=""
+                            issue-term="pathname" label="comment" theme="github-light" crossorigin="anonymous" async>
+                            </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+    
 
 
     

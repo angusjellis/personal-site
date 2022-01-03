@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://angusjellis.co.uk/posts/migration/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://angusjellis.co.uk/tags/short/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://angusjellis.co.uk/tags/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://angusjellis.co.uk/about/</loc>
     <lastmod>2022-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://angusjellis.co.uk/</loc>
+    <lastmod>2022-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://angusjellis.co.uk/posts/</loc>
     <lastmod>2022-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://angusjellis.co.uk/techstack/</loc>
@@ -16,7 +28,5 @@
     <loc>https://angusjellis.co.uk/long/</loc>
   </url><url>
     <loc>https://angusjellis.co.uk/short/</loc>
-  </url><url>
-    <loc>https://angusjellis.co.uk/tags/</loc>
   </url>
 </urlset>
