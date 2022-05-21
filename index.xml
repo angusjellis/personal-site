@@ -13,7 +13,7 @@
       <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://angusjellis.co.uk/posts/migration/</guid>
-      <description>Summary Our legacy SCM system had been in use since ~2015. Five years&#39; worth of technical debt had built up (in terms of usrs, permissions, dependencies, naming conventions, etc).
+      <description>Summary Our legacy SCM system had been in use since ~2015. Five years&amp;rsquo; worth of technical debt had built up (in terms of usrs, permissions, dependencies, naming conventions, etc).
 I was given the task of planning and implementing our migration to GitHub.
 Our old system was an absolutely critical system that supported the entirety of KPMG&amp;rsquo;s Engineering function, with around 600 users, and £millions of revenue dependent upon it.
 There were around 3200 repos on the legacy system.</description>
