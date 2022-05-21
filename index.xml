@@ -27,7 +27,7 @@ There were around 3200 repos on the legacy system.</description>
       <guid>https://angusjellis.co.uk/about/</guid>
       <description>I&amp;rsquo;m a DevOps Engineer based in Manchester.
 My primary responsibilties involve building and maintaining my company&amp;rsquo;s Developer Productivity suite, using a mixture of vendor products and custom-built internal tools.
-Outside of work, I&amp;rsquo;m a fitness enthusiast, a cryptocurrency evangelist/investor, a gamer, and I love getting to gigs (primarily heavy metal).
+Outside of work, I&amp;rsquo;m a fitness enthusiast, a cryptocurrency evangelist/investor, a gamer, and I love getting to concerts (primarily heavy metal).
 I&amp;rsquo;ve built this site as a static site, compiled using hugo, with the hugo tanka theme.
 The site is deployed using a GitHub Actions Pipeline.</description>
     </item>
