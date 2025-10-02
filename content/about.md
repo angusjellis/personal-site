@@ -1,17 +1,17 @@
 ---
 title: "About"
-date: "2022-01-02"
+date: "2025-10-02"
 menu: "main"
 description: "A description of the page"
 ---
 
 <br />
 
-I'm a DevOps Engineer based in Manchester.
+I'm a Platform Engineer based in the United Kingdom.
 
-My primary responsibilties involve building and maintaining my company's Developer Productivity suite, using a mixture of vendor products and custom-built internal tools.
+I work on the Platform team at doxy.me. We maintain the core infrastructure of the doxy.me platform, along with building developer enablement tooling.
 
-Outside of work, I'm a fitness enthusiast, a cryptocurrency evangelist/investor, a gamer, and I love getting to concerts (primarily heavy metal).
+Outside of work, I'm a fitness enthusiast, a drummer, and a voracious reader.
 
 I've built this site  as a static site, compiled using [hugo](https://gohugo.io/), with the [hugo tanka theme](https://github.com/nanxstats/hugo-tanka).
 
