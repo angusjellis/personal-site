@@ -6,10 +6,8 @@ description: "A page to describe my skillset"
 ---
 
 
-Within my current role, I build internal tooling using Python and Typescript, with the tooling hosted on AWS.
+My primary programming language for personal projects and automation is Python, but I also work heavily with Typescript. I tend to use Poetry for Python dependency management, and GitHub Actions for CI/CD.
 
-I make use of Serverless functions to automate toil, while also leading the development of an application with a Flask backend (hosted on ECS) and a React frontend (hosted as a Jamstack deployment using a combination of Cloudfront & S3.)
+At my current employer I work heavily with AWS and Terraform. Our platform is contained within a monorepo, using NX to manage service relationships and commands. GitLab CI is used for deployment, with pipelines generated using a pipeline generator, written in javascript.
 
-I write CI/CD Pipelines in GitHub Actions & Jenkins (preferably on Actions), with all source code being held on GitHub.
-
-I work with the following AWS technologies: ECS, EC2, S3, RDS, Lambda, Cloudfront, and VPC.
+I tend to containerise projects both personal and professional. Those containers have been ran in ECS, Lambda, and EKS, depending on the scale of the project, but I lean towards ECS for APIs and Lambda for automation.
