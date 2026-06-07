@@ -38,9 +38,8 @@ There were around 3200 repos on the legacy system.</description>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://angusjellis.co.uk/techstack/</guid>
-      <description>Within my current role, I build internal tooling using Python and Typescript, with the tooling hosted on AWS.
-I make use of Serverless functions to automate toil, while also leading the development of an application with a Flask backend (hosted on ECS) and a React frontend (hosted as a Jamstack deployment using a combination of Cloudfront &amp;amp; S3.)
-I write CI/CD Pipelines in GitHub Actions &amp;amp; Jenkins (preferably on Actions), with all source code being held on GitHub.</description>
+      <description>My primary programming language for personal projects and automation is Python, but I also work heavily with Typescript. I tend to use Poetry for Python dependency management, and GitHub Actions for CI/CD.
+At my current employer I work heavily with AWS and Terraform. Our platform is contained within a monorepo, using NX to manage service relationships and commands. GitLab CI is used for deployment, with pipelines generated using a pipeline generator, written in javascript.</description>
     </item>
     
   </channel>
